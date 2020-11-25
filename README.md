@@ -5,7 +5,7 @@ Analysis.py is the main analysis code, first do Pearson correlation coefficient 
 
 crawlData.py contains the code of data crawler, after configuring mongodb and running it, the data can be directly stored in mongodb and updated regularly.
 
-# Prerequisites:
+### Prerequisites
 ------
 Ubuntu 18.04
 python 3.7.4
@@ -15,7 +15,7 @@ schedule 0.6.0
 pymongo 3.11.1
 MongoDB 3.6.3
 
-# Usage
+### Usage
 ------
 This code is particularly easy to use:
 
